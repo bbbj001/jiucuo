@@ -9,7 +9,7 @@ Short manual
 - JiuCuo is suitable for 32-bit or 64-bit machines with Linux operating systems. JiuCuo include minimap2 alignment, samtools processing and error correction, where the former two steps require relatively large memory, and the later uses no more than 10 GB.
 
 2. Installation
-- git clone [https://github.com/bbbj001/jiucuo](https://github.com/bbbj001/jiucuo.git)
+- git clone https://github.com/bbbj001/jiucuo.git
 - cd JiuCuo
 - conda env create -f JiuCuo.yml
 - pip install -r JiuCuo.txt
