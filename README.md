@@ -10,7 +10,7 @@ Short manual
 
 2. Installation
 - git clone git clone -b master https://github.com/bbbj001/jiucuo.git
-- cd JiuCuo
+- cd jiucuo
 - conda env create -f JiuCuo.yml
 - pip install -r JiuCuo.txt
 
